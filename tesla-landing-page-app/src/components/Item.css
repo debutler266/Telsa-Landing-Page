@@ -6,6 +6,7 @@
   background-position: cover;
   display: flex;
   justify-content: center;
+  scroll-snap-align: start;
 }
 
 .item__container {
